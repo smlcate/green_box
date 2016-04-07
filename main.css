@@ -1,0 +1,13 @@
+div {
+  height: 300px;
+  width: 300px;
+  margin: 20px;
+}
+
+.green_box1 {
+  background-color: green;
+}
+
+.green_box2 {
+  background-color: rgba(0, 129, 0, 1.0);
+}
